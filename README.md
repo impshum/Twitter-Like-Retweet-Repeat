@@ -21,3 +21,7 @@ max_sleep_timer = 360 ```max minutes between runs```
 max_per_run = 3 ```max like & retweet per run```  
 min_sleep = 10 ```min seconds between each like/retweet```  
 max_sleep = 30 ```max seconds between each like/retweet```  
+
+### Tip
+
+BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
